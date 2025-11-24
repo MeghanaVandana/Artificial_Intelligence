@@ -1,0 +1,1 @@
+Genetic Algorithm TSP solver (10 cities). Python script implements ordered crossover, swap mutation, tournament selection and elitism. Starts/ends at city A and outputs best route and plot. Run: python tsp_ga.py
