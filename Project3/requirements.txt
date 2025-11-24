@@ -1,0 +1,18 @@
+# ---------- Auto-GPT Core ----------
+openai
+python-dotenv
+requests
+colorama
+tiktoken
+pydantic
+typing-extensions
+pyyaml
+uvicorn
+fastapi
+
+# ---------- Email Plugin ----------
+yagmail
+imap-tools
+pyopenssl
+keyring
+oauth2client
