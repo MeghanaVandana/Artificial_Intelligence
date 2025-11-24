@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+pillow
+transformers
+tqdm
+scikit-learn
+yagmail
+imap-tools
+python-dotenv
